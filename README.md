@@ -1,4 +1,4 @@
-# Programming 2 (811322A-3013) – Spring 2025
+# Programming 2 (811322A) – Spring 2025
 
 This repository contains the major assignments for the **Programming 2** course (811322A-3013) at the University of Oulu, Spring 2025. The Programming 2 course is entirely completed in **Java**.
 
